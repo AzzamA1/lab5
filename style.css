@@ -24,7 +24,9 @@ td{
 }
 
 th{
-	color:white;
+	color: black;
+	background-color: white;
+	font-weight: bold;
 }
 
 
