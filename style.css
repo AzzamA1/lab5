@@ -9,6 +9,7 @@ h1{
   color: white;
   font-weight: bold;
   text-decoration: underline;
+  text-align: center;
 }
 
 #table td, #table th{
