@@ -6,15 +6,20 @@ body{
 
 h1{
   font-family: Helvetica, Sans-Serif;
+  text-align: center;
   color: white;
   font-weight: bold;
   text-decoration: underline;
+}
+
+table{
+  border: 2px solid white;
+  padding: 5px;
   text-align: center;
 }
 
-#table td, #table th{
-	border: 2px solid black;
-	text-align: center;
+tr{
+  color: white;
 }
 
   
