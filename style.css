@@ -20,11 +20,15 @@ table{
 }
 
 td{
+	font-family: Helvetica, Sans-Serif;
+	text-align: center;
 	color: black;
 	background-color: white;
 }
 
 th{
+	font-family: Helvetica, Sans-Serif;
+	text-align: center;
 	color: black;
 	background-color: silver;
 	font-weight: bold;
