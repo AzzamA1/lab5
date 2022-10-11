@@ -20,12 +20,13 @@ table{
 }
 
 td{
-	color: white;
+	color: black;
+	background-color: white;
 }
 
 th{
 	color: black;
-	background-color: white;
+	background-color: silver;
 	font-weight: bold;
 }
 
