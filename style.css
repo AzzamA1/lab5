@@ -13,13 +13,14 @@ h1{
 }
 
 table{
-  border: 2px solid white;
+  border: 3px solid white;
   width: 100%;
   padding: 5px;
   text-align: center;
 }
 
 td{
+	border: 3px gray;
 	font-family: Helvetica, Sans-Serif;
 	text-align: center;
 	color: black;
@@ -27,6 +28,7 @@ td{
 }
 
 th{
+	border: 3px gray;
 	font-family: Helvetica, Sans-Serif;
 	text-align: center;
 	color: black;
