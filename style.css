@@ -20,7 +20,7 @@ table{
 }
 
 td{
-	border: 3px gray;
+	border: 3px solid gray;
 	font-family: Helvetica, Sans-Serif;
 	text-align: center;
 	color: black;
@@ -28,7 +28,7 @@ td{
 }
 
 th{
-	border: 3px gray;
+	border: 3px solid gray;
 	font-family: Helvetica, Sans-Serif;
 	text-align: center;
 	color: black;
